@@ -1,0 +1,552 @@
+Accession Number;;Genome ID;Annotation;3,75;6,25;8,75;11,25;13,75;15,25;17,75;20;22,5;25;27,5;30
+638431670;ZP_00516387;CwatDRAFT_3819;Nitrogenase molybdenum-iron protein alpha;0;1;1;1;4;18;15;27;4;1;0;0
+638431669;ZP_00516386;CwatDRAFT_3818;Nitrogenase iron protein ;16;7;2;0;15;22;16;61;18;6;6;2
+638430995;ZP_00515759;CwatDRAFT_4291;Flavodoxin, long chain ;55;24;14;8;8;44;59;70;59;40;23;8
+638434596;ZP_00519306;CwatDRAFT_0061;hypothetical protein ;15;7;0;2;106;15;13;18;19;24;0;0
+638432334;ZP_00517074;CwatDRAFT_2459;Heme oxygenase (decyclizing) ;0;0;0;0;0;0;2;5;1;3;1;0
+638429047;ZP_00513792;CwatDRAFT_6160;Sigma 54 modulation protein/ribosomal prot;1;4;4;1;2;3;3;6;1;1;5;1
+638431968;ZP_00516690;CwatDRAFT_2994;stress protein ;3;2;2;1;2;1;2;3;1;1;1;0
+638429893;ZP_00514631;CwatDRAFT_5496;Periplasmic solute binding protein ;2;3;2;2;3;2;2;2;1;1;0;0
+638430665;ZP_00515398;CwatDRAFT_4460;Dihydroxy-acid dehydratase ;1;3;1;3;1;4;1;2;0;2;1;0
+638429694;ZP_00514434;CwatDRAFT_5868;conserved hypothetical protein ;37;34;48;40;49;31;22;40;8;10;12;7
+638429833;ZP_00514572;CwatDRAFT_5794;von Willebrand factor, type A ;11;11;7;9;17;12;9;5;4;9;3;2
+638432223;ZP_00516937;CwatDRAFT_2952;ClpX, ATPase regulatory subunit ;4;3;5;2;5;2;4;3;0;1;3;2
+638433247;ZP_00517963;CwatDRAFT_1978;NUDIX hydrolase ;6;4;3;1;5;4;2;1;1;3;1;0
+638433892;ZP_00518610;CwatDRAFT_0796;Cysteine synthase K/M:Cysteine synthase A;1;3;3;5;5;6;3;5;0;3;1;1
+638433142;ZP_00517861;CwatDRAFT_1601;hypothetical protein ;3;1;2;3;2;1;1;2;0;1;1;0
+638433195;ZP_00517910;CwatDRAFT_2178;Glycosyl transferase, group 1 ;10;17;2;12;10;11;5;4;4;7;2;1
+638431678;ZP_00516395;CwatDRAFT_3827;Nitrogen fixation protein NifW ;16;7;3;0;7;20;11;16;15;12;7;7
+638431704;ZP_00516438;CwatDRAFT_4050;Threonine synthase ;2;3;1;2;1;7;4;2;0;2;0;0
+638428969;ZP_00513714;CwatDRAFT_6652;Aconitate hydratase 2 ;1;0;1;1;4;2;3;2;0;1;0;0
+638429197;ZP_00513941;CwatDRAFT_6528;Thioredoxin-disulfide reductase ;4;5;8;8;2;2;5;7;0;0;2;2
+638431658;ZP_00516416;CwatDRAFT_3849;Nitrogenase-associated protein ;3;2;0;0;2;4;2;3;3;2;2;0
+638430255;ZP_00514990;CwatDRAFT_5161;Acetylornithine and succinylornithine amin;2;6;5;4;4;6;7;5;1;0;5;1
+638431676;ZP_00516393;CwatDRAFT_3825;Protein of unknown function DUF269 ;2;3;3;0;2;6;5;10;3;6;0;0
+638429927;ZP_00514665;CwatDRAFT_5742;Carbamoyl-phosphate synthase, large subuni;8;12;16;9;10;14;15;18;3;13;15;4
+638430224;ZP_00514961;CwatDRAFT_4914;Dihydrodipicolinate reductase ;1;1;4;2;2;2;3;3;0;0;0;0
+638431666;ZP_00516383;CwatDRAFT_3815;Nitrogenase cofactor biosynthesis protein;0;1;0;0;0;5;3;1;1;1;2;1
+638428829;ZP_00513575;CwatDRAFT_6726;DNA gyrase, B subunit ;8;15;15;8;8;9;3;6;2;2;6;6
+638431846;ZP_00516553;CwatDRAFT_3336;similar to Nucleoside-diphosphate-sugar ep;1;2;3;1;1;2;3;2;2;2;3;3
+638429113;ZP_00513858;CwatDRAFT_6579;Cysteine desulphurases, SufS ;1;1;2;2;1;3;0;3;1;0;2;0
+638432388;ZP_00517102;CwatDRAFT_2653;similar to Nucleoside-diphosphate-sugar ep;5;4;2;3;5;2;1;3;1;2;1;1
+638432717;ZP_00517435;CwatDRAFT_2328;AAA ATPase, central region:Clp, N terminal;2;6;7;2;1;2;3;2;2;2;3;5
+638431611;ZP_00516323;CwatDRAFT_3533;6-phosphogluconate dehydrogenase, decarbox;76;76;87;68;78;78;79;115;48;48;35;24
+638431558;ZP_00516313;CwatDRAFT_3489;Extracellular ligand-binding receptor ;9;10;6;10;10;5;5;7;1;4;3;0
+638433132;ZP_00517847;CwatDRAFT_1831;hypothetical protein ;0;1;1;0;0;1;3;1;2;2;2;1
+638434263;ZP_00518972;CwatDRAFT_0537;Rhodanese-like ;2;4;3;2;3;4;2;4;3;2;2;3
+638428906;ZP_00513652;CwatDRAFT_6074;Lysyl-tRNA synthetase, class-2 ;4;1;3;1;3;2;1;2;2;1;1;0
+638432383;ZP_00517099;CwatDRAFT_2650;Glycosyl transferase, family 9 ;4;5;4;3;3;3;6;4;4;5;1;0
+638429557;ZP_00514298;CwatDRAFT_5296;Carbonate dehydratase ;25;20;14;23;16;10;1;1;4;6;2;1
+638429114;ZP_00513859;CwatDRAFT_6578;FeS assembly protein SufD ;4;3;2;2;4;5;2;6;1;2;1;0
+638429725;ZP_00514465;CwatDRAFT_5851;HAD-superfamily hydrolase, subfamily IA,;10;25;19;21;14;12;13;15;2;3;3;1
+638431519;ZP_00516246;CwatDRAFT_3658;Oxidoreductase FAD/NAD(P)-binding:CpcD phy;3;2;4;5;3;3;2;6;1;2;1;0
+638429525;ZP_00514266;CwatDRAFT_5951;hypothetical protein ;50;55;70;50;49;44;41;67;26;27;25;22
+638434374;ZP_00519089;CwatDRAFT_0464;Argininosuccinate synthase ;20;20;23;11;16;20;16;23;12;15;16;0
+638429487;ZP_00514229;CwatDRAFT_5255;Histone-like bacterial DNA-binding protein;18;14;12;12;16;7;9;8;3;6;2;0
+638431736;ZP_00516471;CwatDRAFT_3096;hypothetical protein ;8;5;6;8;6;8;7;9;5;11;7;2
+638432580;ZP_00517310;CwatDRAFT_2431;Phosphoenolpyruvate carboxylase ;3;0;2;0;1;1;6;5;2;3;3;0
+638433144;ZP_00517859;CwatDRAFT_1599;Peptidase S24, LexA repressor ;8;6;4;8;2;3;1;4;2;3;0;2
+638431745;ZP_00516458;CwatDRAFT_3080;Glucose-6-phosphate dehydrogenase ;41;34;38;27;36;50;30;55;15;18;20;18
+638431397;ZP_00516112;CwatDRAFT_3782;Transaldolase AB ;35;25;19;34;39;46;40;72;27;28;18;9
+638431543;ZP_00516278;CwatDRAFT_3616;Serine--glyoxylate transaminase ;31;25;20;26;16;23;13;13;2;7;3;3
+638429505;ZP_00514246;CwatDRAFT_5260;3-isopropylmalate dehydrogenase ;3;6;7;5;3;6;4;10;0;2;7;4
+638429806;ZP_00514545;CwatDRAFT_5816;Fumarylacetoacetate (FAA) hydrolase ;3;4;2;4;2;2;3;2;0;2;1;1
+638429988;ZP_00514726;CwatDRAFT_5719;putative phycoerythrin-associated linker p;2;1;3;5;1;1;0;2;0;0;1;0
+638430738;ZP_00515542;CwatDRAFT_4620;Transglutaminase-like ;4;6;8;6;3;2;5;6;3;3;3;0
+638432570;ZP_00517282;CwatDRAFT_3165;Alkyl hydroperoxide reductase/ Thiol speci;1;1;2;3;0;3;1;4;2;3;3;0
+638431746;ZP_00516459;CwatDRAFT_3081;OpcA ;40;26;29;20;29;26;27;30;10;13;13;5
+638431703;ZP_00516439;CwatDRAFT_4051;ThiamineS ;5;8;4;5;11;12;6;14;6;9;7;4
+638432265;ZP_00516972;CwatDRAFT_2789;Inositol phosphatase/fructose-1,6-bisphosp;3;5;10;8;7;8;3;13;2;6;6;0
+638432716;ZP_00517451;CwatDRAFT_2349;RNA-binding region RNP-1  (RNA recognition;13;8;5;4;12;10;4;8;9;7;7;5
+638434629;ZP_00519340;CwatDRAFT_0344;Glucosamine/galactosamine-6-phosphate isom;1;3;1;3;2;2;7;3;1;1;3;0
+638433315;ZP_00518027;CwatDRAFT_1551;Band 7 protein ;3;1;1;2;4;4;2;5;1;2;0;0
+638429827;ZP_00514566;CwatDRAFT_5799;DRTGG ;5;6;5;2;1;4;4;4;7;7;7;5
+638433620;ZP_00518338;CwatDRAFT_1513;Enolase ;17;18;22;14;13;14;11;27;3;10;13;9
+638433057;ZP_00517775;CwatDRAFT_1482;Ribosomal protein L1 ;8;9;8;8;8;7;7;11;8;10;8;8
+638432320;ZP_00517041;CwatDRAFT_2407;Peptide chain release factor 1 ;1;1;2;1;3;3;2;2;0;0;2;0
+638429573;ZP_00514314;CwatDRAFT_5307;Histidine kinase, HAMP region:Bacterial c;14;10;10;6;6;2;0;0;0;4;6;0
+638430521;ZP_00515234;CwatDRAFT_4695;Elongation factor G, C-terminal ;2;1;3;0;0;0;1;0;0;1;2;2
+638431510;ZP_00516228;CwatDRAFT_3694;Anthranilate synthase component I ;2;3;3;0;1;2;2;5;0;3;2;0
+638430120;ZP_00514858;CwatDRAFT_5612;Macrophage migration inhibitory factor ;3;3;4;6;3;1;2;5;3;1;2;1
+638434262;ZP_00518971;CwatDRAFT_0536;UBA/THIF-type NAD/FAD binding fold:MoeZ/Mo;5;5;9;9;7;4;5;6;3;5;7;5
+638431900;ZP_00516607;CwatDRAFT_3426;Conserved hypothetical protein 92:GTP-bind;6;7;10;4;3;10;5;9;5;7;7;0
+638429700;ZP_00514440;CwatDRAFT_5386;Cytochrome c oxidase, subunit II:Cytochrom;1;0;0;0;2;6;7;5;2;2;0;0
+638429516;ZP_00514257;CwatDRAFT_5955;conserved hypothetical protein ;3;3;2;2;6;1;1;3;1;4;1;1
+638429545;ZP_00514286;CwatDRAFT_5287;sulfolipid biosynthesis protein ;3;2;2;1;6;2;4;3;1;3;1;2
+638431737;ZP_00516470;CwatDRAFT_3095;Pyridoxal phosphate biosynthetic protein P;1;3;1;2;2;2;2;2;0;1;1;1
+638430613;ZP_00515326;CwatDRAFT_4797;Single-stranded nucleic acid binding R3H ;1;3;2;2;5;1;1;4;1;1;0;0
+638432670;ZP_00517408;CwatDRAFT_2079;Transcriptional regulator AbrB ;95;51;40;39;62;29;22;34;25;26;17;0
+638434111;ZP_00518824;CwatDRAFT_0568;Septum formation topological specificity f;3;5;3;2;2;0;0;0;0;0;0;0
+638431144;ZP_00515869;CwatDRAFT_4095;Peroxidase ;11;10;9;7;12;7;8;12;1;2;0;0
+638428770;ZP_00513517;CwatDRAFT_5989;Ferritin and Dps ;24;23;15;16;18;16;20;23;13;15;17;17
+638430076;ZP_00514814;CwatDRAFT_5663;AMP-dependent synthetase and ligase ;3;3;2;3;1;1;5;1;0;2;2;2
+638430576;ZP_00515262;CwatDRAFT_4730;Acetohydroxy acid isomeroreductase ;19;22;22;20;19;14;12;27;1;7;7;3
+638431319;ZP_00516050;CwatDRAFT_3959;DNA-directed RNA polymerase ;25;29;33;25;24;20;17;25;9;15;12;9
+638429668;ZP_00514408;CwatDRAFT_5366;UvrB/UvrC protein:AAA ATPase, central regi;5;8;7;7;4;6;5;6;2;7;9;0
+638432419;ZP_00517139;CwatDRAFT_2675;similar to Phosphate transport regulator (;0;0;0;0;0;2;1;0;0;1;0;0
+638432958;ZP_00517677;CwatDRAFT_1947;Nucleotidyl transferase ;4;4;5;2;0;7;5;2;2;5;6;4
+638430533;ZP_00515240;CwatDRAFT_4701;Inositol-1(or 4)-monophosphatase ;4;4;5;4;1;4;3;4;0;1;1;0
+638433008;ZP_00517727;CwatDRAFT_1852;Phosphoribosyl-AMP cyclohydrolase:Phosphor;2;3;6;1;0;1;3;4;2;1;2;1
+638432004;ZP_00516719;CwatDRAFT_2839;Leucyl aminopeptidase ;8;11;13;10;7;7;6;9;5;1;3;5
+638432773;ZP_00517489;CwatDRAFT_2246;Photosystem II reaction center protein Psb;3;4;5;3;2;3;1;5;2;1;2;0
+638433477;ZP_00518188;CwatDRAFT_1711;Seryl-tRNA synthetase, class IIa ;3;6;6;3;1;5;5;8;2;1;4;3
+638434092;ZP_00518803;CwatDRAFT_1519;Transcriptional regulator AbrB ;7;6;9;6;4;7;8;12;8;3;9;18
+638430258;ZP_00514993;CwatDRAFT_4928;extracellular solute-binding protein, fami;5;9;5;9;3;3;0;5;0;5;1;0
+638432399;ZP_00517120;CwatDRAFT_2536;hypothetical protein ;6;8;9;7;7;7;2;4;2;2;2;3
+638429008;ZP_00513753;CwatDRAFT_6138;Chaperonin Cpn60/TCP-1 ;95;80;93;69;90;63;40;85;22;45;31;25
+638431091;ZP_00515804;CwatDRAFT_4200;Elongation factor Ts ;38;26;30;16;26;18;15;26;12;34;9;3
+638432243;ZP_00516955;CwatDRAFT_2817;Tryptophan synthase, beta chain ;2;3;2;2;3;1;2;3;1;1;1;1
+638432239;ZP_00516961;CwatDRAFT_2823;6-phosphogluconolactonase ;12;15;13;9;12;9;10;13;1;1;2;0
+638429485;ZP_00514227;CwatDRAFT_5974;4Fe-4S ferredoxin, iron-sulfur binding ;14;17;13;15;12;7;6;7;5;9;7;1
+638434511;ZP_00519222;CwatDRAFT_0331;Trigger factor ;38;32;27;28;45;25;18;34;11;29;11;8
+638432346;ZP_00517056;CwatDRAFT_2440;Ribosomal protein L4/L1e ;8;14;16;18;9;8;21;14;0;6;13;10
+638430496;ZP_00515383;CwatDRAFT_4858;Manganese-stabilizing protein/photosystem;22;28;29;23;27;11;8;16;14;14;8;9
+638432377;ZP_00517097;CwatDRAFT_2647;Glutamate-1-semialdehyde-2,1-aminomutase ;4;4;4;1;1;2;6;4;0;3;1;2
+638433059;ZP_00517777;CwatDRAFT_1484;Ribosomal protein L7/L12 ;21;38;29;33;34;15;7;18;15;7;7;0
+638430435;ZP_00515170;CwatDRAFT_5036;3'-5' exonuclease ;0;5;4;5;3;3;9;9;5;3;5;0
+638434112;ZP_00518823;CwatDRAFT_0567;Septum site-determining protein MinD ;9;11;13;7;11;8;10;7;6;5;4;0
+638430636;ZP_00515288;CwatDRAFT_4758;Phosphorylase ;45;45;56;43;30;21;22;47;12;19;15;0
+638429406;ZP_00514148;CwatDRAFT_6375;microcompartments protein ;6;5;6;4;5;12;8;11;6;12;7;0
+638429915;ZP_00514653;CwatDRAFT_5752;hypothetical protein ;3;3;2;4;8;0;1;1;1;2;1;0
+638430640;ZP_00515289;CwatDRAFT_4759;unknown protein ;3;1;1;2;0;0;1;1;0;1;1;0
+638431092;ZP_00515803;CwatDRAFT_4199;Ribosomal protein S2, bacterial and organe;14;22;21;23;19;7;6;15;2;0;4;3
+638431392;ZP_00516127;CwatDRAFT_3798;RNA binding S1 ;7;7;9;5;1;1;3;3;2;3;0;1
+638431641;ZP_00516370;CwatDRAFT_3583;Isocitrate dehydrogenase NADP-dependent, p;6;4;5;2;4;3;1;4;0;1;1;0
+638431881;ZP_00516630;CwatDRAFT_3451;Dihydrodipicolinate synthase subfamily ;2;6;5;6;1;3;2;7;0;2;1;0
+638432701;ZP_00517428;CwatDRAFT_2319;Fructose-bisphosphate aldolase ;19;15;25;20;25;18;23;43;8;14;10;0
+638432838;ZP_00517554;CwatDRAFT_2369;Porphobilinogen deaminase ;10;10;5;4;7;9;6;11;2;5;4;6
+638431571;ZP_00516289;CwatDRAFT_3464;Porphobilinogen synthase ;11;10;12;12;13;19;13;18;5;10;8;0
+638432348;ZP_00517058;CwatDRAFT_2442;Ribosomal protein L2, bacterial and organe;12;24;26;19;10;6;11;13;1;3;4;0
+638433079;ZP_00517796;CwatDRAFT_3060;SAICAR synthetase ;3;3;3;2;3;3;3;2;0;2;0;0
+638429257;ZP_00514000;CwatDRAFT_6286;H+-transporting two-sector ATPase, B/B' su;12;8;9;7;11;8;2;12;0;1;0;1
+638430253;ZP_00514988;CwatDRAFT_4926;Heavy metal transport/detoxification prote;4;6;4;4;7;5;1;6;0;1;0;2
+638434178;ZP_00518891;CwatDRAFT_0755;UspA ;1;3;3;1;1;4;1;2;0;2;2;1
+638433063;ZP_00517787;CwatDRAFT_1495;Argininosuccinate lyase ;0;0;0;0;0;0;1;3;1;0;0;0
+638432393;ZP_00517105;CwatDRAFT_2656;Blue (type 1) copper domain ;57;53;56;42;55;23;14;39;5;5;2;0
+638429370;ZP_00514112;CwatDRAFT_6343;Phycobilisome linker polypeptide ;1;1;2;2;1;4;1;0;0;1;4;2
+638431488;ZP_00516244;CwatDRAFT_3711;Heat shock protein Hsp90:ATP-binding regio;6;6;11;3;5;6;6;5;2;7;6;1
+638433930;ZP_00518643;CwatDRAFT_0969;Aldehyde dehydrogenase ;5;6;7;5;4;7;10;7;1;6;3;7
+638430119;ZP_00514857;CwatDRAFT_5611;Flavin reductase-like ;6;6;3;3;5;3;3;6;2;3;5;4
+638433298;ZP_00518013;CwatDRAFT_1798;Ribosomal protein S14 ;6;5;7;4;6;5;5;7;0;0;0;0
+638434572;ZP_00519282;CwatDRAFT_0118;RecA bacterial DNA recombination protein ;3;4;5;3;2;5;3;6;0;3;0;0
+638432302;ZP_00517023;CwatDRAFT_2389;Ribosomal protein L24 ;3;5;6;4;3;2;0;7;0;0;0;0
+638433045;ZP_00517772;CwatDRAFT_2138;Peptidylprolyl isomerase ;27;33;25;25;24;18;12;13;23;7;8;12
+638429502;ZP_00514244;CwatDRAFT_5259;hypothetical protein ;1;3;2;2;3;3;1;2;0;1;1;0
+638432353;ZP_00517063;CwatDRAFT_2447;Ribosomal protein L29 ;16;10;10;9;15;5;9;7;4;4;2;3
+638433058;ZP_00517776;CwatDRAFT_1483;Ribosomal protein L10 ;15;13;13;13;19;12;11;12;6;9;3;5
+638430133;ZP_00514871;CwatDRAFT_5626;Methenyltetrahydrofolate cyclohydrolase ;4;6;8;10;3;5;3;5;0;4;4;2
+638432345;ZP_00517055;CwatDRAFT_2439;Ribosomal protein L3 ;6;13;16;18;12;7;10;14;2;4;7;0
+638432543;ZP_00517273;CwatDRAFT_2983;hypothetical protein ;15;15;23;14;15;6;7;9;0;3;3;1
+638433410;ZP_00518122;CwatDRAFT_1283;Pyruvate dehydrogenase (lipoamide) ;4;10;9;7;5;7;4;6;2;8;4;4
+638433685;ZP_00518404;CwatDRAFT_1275;Photosystem II reaction centre W protein,;7;5;5;6;7;1;2;2;4;4;3;0
+638434128;ZP_00518839;CwatDRAFT_0976;Chaperonin Cpn60/TCP-1 ;171;139;147;105;134;87;74;116;72;86;60;38
+638434118;ZP_00518832;CwatDRAFT_1165;Glutathione S-transferase, N-terminal ;8;8;6;9;9;5;9;5;3;10;7;0
+638433837;ZP_00518552;CwatDRAFT_1454;Phospho-2-dehydro-3-deoxyheptonate aldolas;10;17;13;15;9;15;10;12;3;7;8;3
+638429263;ZP_00514006;CwatDRAFT_6292;Magnesium chelatase, ChlI subunit ;5;2;2;0;1;1;1;3;1;4;5;1
+638429279;ZP_00514022;CwatDRAFT_6498;Heat shock protein Hsp70 ;72;62;62;48;65;46;32;55;22;34;32;0
+638432317;ZP_00517038;CwatDRAFT_2404;Ribosomal protein L13, bacterial and organ;2;0;2;0;1;1;1;2;0;0;0;0
+638433125;ZP_00517843;CwatDRAFT_1827;Ribose 5-phosphate isomerase ;9;10;6;6;10;8;8;10;6;7;4;6
+638433174;ZP_00517891;CwatDRAFT_2196;Aminotransferase, class I and II ;2;7;3;5;1;3;0;4;1;2;2;1
+638433154;ZP_00517874;CwatDRAFT_1917;hypothetical protein ;38;33;24;24;39;20;15;18;13;15;8;3
+638430522;ZP_00515235;CwatDRAFT_4696;Translation elongation factor Tu:Small GTP;169;154;204;121;143;117;115;154;95;113;124;124
+638430401;ZP_00515136;CwatDRAFT_5085;conserved hypothetical protein ;11;11;9;8;11;4;4;6;3;7;6;1
+638432445;ZP_00517175;CwatDRAFT_2913;Glutamyl-tRNA(Gln) amidotransferase B subu;6;5;11;7;4;6;10;15;4;4;6;5
+638430583;ZP_00515343;CwatDRAFT_4815;L-asparaginase II ;6;8;10;8;3;4;2;8;0;0;0;0
+638431469;ZP_00516188;CwatDRAFT_3636;Leucyl-tRNA synthetase bacterial/mitochond;5;4;7;5;6;6;7;6;1;5;3;5
+638430754;ZP_00515449;CwatDRAFT_4517;Uroporphyrinogen decarboxylase HemE ;2;5;7;3;2;1;1;4;1;4;2;1
+638430523;ZP_00515236;CwatDRAFT_4697;Ribosomal protein S10, bacterial form ;0;0;1;1;1;0;1;1;0;0;0;0
+638432318;ZP_00517039;CwatDRAFT_2405;Ribosomal protein S9 ;4;6;8;7;6;4;2;5;0;0;0;0
+638432861;ZP_00517580;CwatDRAFT_2235;Inorganic diphosphatase ;32;33;26;28;30;17;9;25;5;12;10;0
+638429093;ZP_00513838;CwatDRAFT_6189;Threonine synthase ;2;3;3;0;1;2;1;3;0;0;2;0
+638429759;ZP_00514499;CwatDRAFT_5423;Glutathione reductase, plant ;3;0;4;0;6;4;3;0;1;1;1;0
+638430157;ZP_00514895;CwatDRAFT_5226;Glutathione synthetase, prokaryotic ;1;0;2;1;2;2;5;2;0;0;0;0
+638431784;ZP_00516495;CwatDRAFT_3258;Photosystem II protein ;5;3;3;6;6;4;2;1;1;1;0;0
+638431945;ZP_00516666;CwatDRAFT_2742;Peptidase M50 ;1;1;2;2;1;0;1;5;0;2;2;1
+638432502;ZP_00517223;CwatDRAFT_2698;Transcription termination factor NusA ;9;7;10;6;7;5;3;9;3;3;3;1
+638429520;ZP_00514261;CwatDRAFT_5270;Branched-chain amino acid aminotransferas;0;4;5;4;2;4;2;5;1;3;2;0
+638429191;ZP_00513936;CwatDRAFT_6238;NADH-plastoquinone oxidoreductase, subunit;3;5;2;3;4;1;2;1;0;0;0;0
+638429654;ZP_00514394;CwatDRAFT_5887;Adenylylsulfate kinase ;0;0;0;1;1;0;0;0;0;1;0;0
+638429942;ZP_00514680;CwatDRAFT_5524;Phosphoglycerate kinase ;53;59;58;40;39;39;29;47;23;29;26;13
+638434134;ZP_00518845;CwatDRAFT_0403;Phycobilisome protein ;108;164;135;152;117;79;63;76;43;52;61;43
+638430929;ZP_00515661;CwatDRAFT_4351;Adenylosuccinate synthetase ;5;4;6;7;3;3;9;7;3;4;6;3
+638429877;ZP_00514615;CwatDRAFT_5773;Response regulator receiver:Transcriptiona;10;7;9;10;10;5;10;13;4;8;3;4
+638433738;ZP_00518453;CwatDRAFT_0607;hypothetical protein ;4;4;6;2;2;3;2;4;1;4;3;0
+638432349;ZP_00517059;CwatDRAFT_2443;Ribosomal protein S19, bacterial and organ;3;5;7;8;5;3;3;5;0;1;1;0
+638430996;ZP_00515758;CwatDRAFT_4290;Cell division protein FtsZ ;3;4;5;2;0;2;1;4;0;0;0;3
+638431074;ZP_00515819;CwatDRAFT_4216;similar to Nucleoside-diphosphate-sugar e;2;3;3;2;2;3;3;2;2;2;2;4
+638431790;ZP_00516546;CwatDRAFT_3423;Biotin/lipoyl attachment:Catalytic domain;6;11;6;6;7;4;5;4;4;7;4;0
+638432347;ZP_00517057;CwatDRAFT_2441;Ribosomal L23 protein ;10;15;13;17;11;8;6;7;0;4;0;3
+638430190;ZP_00514928;CwatDRAFT_4897;conserved hypothetical protein ;6;6;5;5;3;4;4;8;2;1;5;1
+638433813;ZP_00518524;CwatDRAFT_1037;Triosephosphate isomerase ;8;11;11;10;7;7;6;8;3;3;3;0
+638430206;ZP_00514943;CwatDRAFT_5186;Protein of unknown function DUF820 ;1;4;4;3;3;2;1;2;0;1;1;1
+638429223;ZP_00513966;CwatDRAFT_6519;S-layer homology region ;2;2;4;3;1;0;0;0;0;0;2;0
+638432222;ZP_00516936;CwatDRAFT_2951;Peptidase S14, ClpP ;4;3;2;2;4;2;1;1;0;0;0;0
+638434480;ZP_00519190;CwatDRAFT_0475;Peptidase S51, dipeptidase E ;2;1;2;0;1;3;3;2;1;1;1;2
+638430428;ZP_00515163;CwatDRAFT_5077;Glycine hydroxymethyltransferase ;15;25;28;24;23;21;13;22;16;17;15;13
+638432786;ZP_00517504;CwatDRAFT_2040;GrpE protein ;21;21;13;13;18;17;8;12;9;6;2;7
+638432310;ZP_00517031;CwatDRAFT_2397;Adenylate kinase, subfamily ;14;11;15;12;18;12;9;5;14;10;6;6
+638432414;ZP_00517155;CwatDRAFT_2694;Phosphoglucomutase/phosphomannomutase alph;3;4;4;4;5;1;1;2;1;2;1;3
+638433371;ZP_00518086;CwatDRAFT_1222;Photosystem I psaA ;10;14;15;16;15;8;5;9;3;5;5;3
+638431757;ZP_00516513;CwatDRAFT_3277;Ribosomal protein L9 ;22;15;16;15;19;4;4;13;1;3;0;0
+638429259;ZP_00514002;CwatDRAFT_6288;H+-transporting two-sector ATPase, delta (;14;9;7;9;7;5;3;6;2;1;4;5
+638432839;ZP_00517555;CwatDRAFT_2370;Conserved hypothetical protein 103 ;30;30;24;20;24;16;10;23;4;12;4;2
+638433369;ZP_00518084;CwatDRAFT_1219;Glucose-1-phosphate adenylyltransferase ;19;33;52;34;30;22;13;21;7;12;14;0
+638433511;ZP_00518225;CwatDRAFT_1057;Thioredoxin ;31;30;22;22;29;21;11;18;17;12;10;0
+638433847;ZP_00518562;CwatDRAFT_0860;transcription antitermination protein NusG;2;3;4;1;4;4;2;4;0;2;0;0
+638428803;ZP_00513549;CwatDRAFT_6014;Acyl carrier protein (ACP) ;21;13;12;14;19;13;11;11;2;5;2;0
+638431215;ZP_00515947;CwatDRAFT_4157;Adenine phosphoribosyl transferase ;1;3;2;4;2;5;5;4;4;5;2;5
+638432720;ZP_00517449;CwatDRAFT_2347;Peptidylprolyl isomerase ;0;3;2;0;2;2;2;1;0;0;0;0
+638430519;ZP_00515232;CwatDRAFT_4693;Ribosomal protein S7, bacterial and organe;9;12;15;10;12;10;11;15;2;5;7;3
+638432612;ZP_00517347;CwatDRAFT_2596;ABC transporter ;5;6;6;4;2;6;5;6;4;3;4;6
+638433347;ZP_00518060;CwatDRAFT_1623;Pyridoxal-5'-phosphate-dependent enzyme, b;2;3;6;4;3;3;7;2;0;0;0;1
+638429989;ZP_00514727;CwatDRAFT_5718;Phycobilisome linker polypeptide:CpcD phyc;21;16;20;20;18;12;7;15;0;6;4;1
+638432895;ZP_00517617;CwatDRAFT_2096;ATP synthase F1, beta subunit ;83;104;93;80;105;57;51;76;22;45;30;24
+638428768;ZP_00513515;CwatDRAFT_6747;PspA/IM30 ;16;17;12;7;23;8;3;8;0;4;1;1
+638429718;ZP_00514458;CwatDRAFT_5857;Methylthioadenosine phosphorylase ;5;4;9;3;2;6;8;8;0;5;2;0
+638434045;ZP_00518756;CwatDRAFT_0818;Protein of unknown function DUF152 ;2;1;3;0;0;2;2;3;0;1;3;0
+638432303;ZP_00517024;CwatDRAFT_2390;Ribosomal protein L5:Ribosomal protein L5;14;12;19;18;17;10;7;17;3;4;6;0
+638431763;ZP_00516483;CwatDRAFT_3245;Glutamyl-tRNA(Gln) amidotransferase A subu;4;5;8;4;5;6;5;8;2;5;5;4
+638431320;ZP_00516049;CwatDRAFT_3958;DNA-directed RNA polymerase, beta subunit;31;34;46;31;27;37;32;41;9;18;15;9
+638432305;ZP_00517026;CwatDRAFT_2392;Ribosomal protein L6 ;13;21;26;20;24;10;7;15;1;3;4;2
+638432307;ZP_00517028;CwatDRAFT_2394;Ribosomal protein S5, bacterial and organe;14;20;23;21;18;10;9;23;0;3;0;0
+638430849;ZP_00515582;CwatDRAFT_4306;Allophycocyanin, beta subunit ;62;80;84;81;87;50;39;71;20;25;26;22
+638430194;ZP_00514932;CwatDRAFT_4899;Phosphoribosylglycinamide synthetase ;5;0;3;0;3;2;3;2;1;4;2;0
+638429768;ZP_00514508;CwatDRAFT_5430;Transketolase ;31;21;19;36;57;11;4;11;12;16;6;1
+638429035;ZP_00513780;CwatDRAFT_6617;Homoserine dehydrogenase ;1;9;5;4;3;6;4;6;1;3;3;0
+638429149;ZP_00513894;CwatDRAFT_6560;Pyruvate kinase ;1;5;6;3;0;3;4;3;0;3;0;3
+638430397;ZP_00515132;CwatDRAFT_5012;conserved hypothetical protein ;2;2;2;4;5;2;2;3;2;3;0;0
+638431819;ZP_00516529;CwatDRAFT_3404;hypothetical protein ;8;7;10;6;6;4;1;4;1;7;4;2
+638433143;ZP_00517860;CwatDRAFT_1600;Citrate (Si)-synthase ;4;7;10;2;6;7;8;12;5;11;8;10
+638432312;ZP_00517033;CwatDRAFT_2399;Ribosomal protein S13 ;3;5;16;10;3;5;19;18;1;1;10;24
+638431649;ZP_00516362;CwatDRAFT_3575;hypothetical protein ;8;7;6;6;7;2;3;2;5;4;0;0
+638433712;ZP_00518423;CwatDRAFT_0663;Phycobilisome protein ;15;12;24;12;14;9;13;9;8;9;11;7
+638429478;ZP_00514220;CwatDRAFT_5249;hypothetical protein ;3;2;1;2;1;1;0;1;0;1;0;0
+638431511;ZP_00516227;CwatDRAFT_3693;Photosystem I protein PsaD ;22;27;29;26;30;11;3;13;3;1;3;2
+638431459;ZP_00516202;CwatDRAFT_3654;Aldose 1-epimerase ;5;6;7;4;4;6;7;6;3;7;7;4
+638430552;ZP_00515252;CwatDRAFT_4717;Glutathione peroxidase ;41;38;38;37;41;25;21;30;5;20;11;4
+638433590;ZP_00518304;CwatDRAFT_1884;Peptidase S49, SppA ;6;9;7;5;5;4;2;6;3;4;0;0
+638433447;ZP_00518171;CwatDRAFT_1378;RNA-binding region RNP-1  (RNA recognition;2;2;4;2;5;5;1;3;3;10;3;1
+638433530;ZP_00518243;CwatDRAFT_1819;FeS assembly ATPase SufC ;6;4;2;2;5;4;1;5;0;1;0;1
+638434461;ZP_00519172;CwatDRAFT_0282;Ribosome recycling factor ;8;6;2;5;9;3;3;2;0;3;0;0
+638433851;ZP_00518565;CwatDRAFT_0857;RNA polymerase, omega subunit ;3;1;1;1;4;4;3;4;4;3;2;2
+638434284;ZP_00518994;CwatDRAFT_0628;hypothetical protein ;4;4;5;3;3;4;4;4;1;3;3;3
+638434133;ZP_00518844;CwatDRAFT_0402;Phycobilisome protein ;53;75;71;78;59;17;17;26;8;10;5;3
+638432099;ZP_00516816;CwatDRAFT_2716;Ribulose-bisphosphate carboxylase ;72;109;103;110;77;35;53;63;26;29;70;71
+638433152;ZP_00517865;CwatDRAFT_1905;SecA protein ;14;15;19;10;11;9;7;12;10;7;7;0
+638429092;ZP_00513837;CwatDRAFT_6188;Nucleoside-diphosphate kinase ;15;15;21;14;14;12;8;19;0;6;3;4
+638430141;ZP_00514879;CwatDRAFT_4873;Peptidase S14, ClpP ;10;13;15;11;10;7;7;9;7;9;10;0
+638432277;ZP_00516996;CwatDRAFT_3021;hypothetical protein ;5;10;11;7;8;6;8;9;7;4;3;0
+638433164;ZP_00517881;CwatDRAFT_2191;hypothetical protein ;41;45;46;34;58;25;25;33;23;15;22;21
+638433000;ZP_00517716;CwatDRAFT_1840;Alanine dehydrogenase and pyridine nucleot;3;3;2;4;2;4;5;3;0;5;5;3
+638429535;ZP_00514276;CwatDRAFT_5946;TPR repeat:TPR repeat ;6;7;5;5;8;3;2;3;1;0;1;0
+638434438;ZP_00519145;CwatDRAFT_0160;Glycosyl hydrolase, BNR repeat ;3;2;5;4;3;1;0;1;1;3;2;1
+638432308;ZP_00517029;CwatDRAFT_2395;Ribosomal protein L15, bacterial form ;6;7;8;8;10;5;3;9;0;1;1;0
+638433601;ZP_00518314;CwatDRAFT_2211;1-(5-Phosphoribosyl)-5-amino-4-imidazole-;0;3;4;3;2;2;2;0;0;0;1;0
+638433797;ZP_00518519;CwatDRAFT_1265;Translation elongation factor G:Small GTP-;47;51;57;31;28;23;24;33;18;22;32;37
+638432100;ZP_00516826;CwatDRAFT_2726;hypothetical protein ;2;3;2;3;1;7;6;4;2;2;5;2
+638433372;ZP_00518087;CwatDRAFT_1223;Photosystem I psaB ;21;23;26;24;18;12;6;10;2;7;2;3
+638430223;ZP_00514960;CwatDRAFT_5181;S-adenosyl-L-homocysteine hydrolase ;33;31;33;38;17;18;17;30;5;9;11;0
+638431492;ZP_00516240;CwatDRAFT_3706;similar to Nucleoside-diphosphate-sugar ep;9;16;22;18;18;13;8;14;1;7;6;3
+638431903;ZP_00516609;CwatDRAFT_3430;Phycocyanin, alpha subunit ;95;115;113;102;114;52;43;62;11;29;26;15
+638431232;ZP_00515964;CwatDRAFT_4146;Glucose-6-phosphate isomerase ;57;55;63;56;56;50;30;66;11;29;27;17
+638430593;ZP_00515337;CwatDRAFT_4808;IMP dehydrogenase related 2 ;14;21;27;20;15;16;21;23;6;16;11;12
+638434139;ZP_00518849;CwatDRAFT_0407;Phycobilisome protein ;133;180;178;200;187;157;155;163;115;145;140;130
+638431919;ZP_00516646;CwatDRAFT_3146;TPR repeat:TPR repeat ;6;3;5;0;4;5;3;5;2;2;1;1
+638430550;ZP_00515362;CwatDRAFT_4835;Delta 1-pyrroline-5-carboxylate reductase;5;3;5;3;3;9;7;4;3;4;6;0
+638430827;ZP_00515491;CwatDRAFT_4563;Polyribonucleotide nucleotidyltransferase;44;51;58;43;27;34;30;48;12;23;29;23
+638432940;ZP_00517653;CwatDRAFT_2516;Anti-sigma factor antagonist ;7;7;5;5;8;3;3;6;4;4;5;3
+638429782;ZP_00514522;CwatDRAFT_5438;conserved hypothetical protein ;19;16;13;15;16;10;8;8;0;2;7;0
+638429555;ZP_00514296;CwatDRAFT_5294;microcompartments protein ;69;53;64;50;60;37;20;40;29;38;29;17
+638432352;ZP_00517062;CwatDRAFT_2446;Ribosomal protein L16 ;5;8;8;5;6;3;4;5;0;2;2;2
+638431875;ZP_00516591;CwatDRAFT_3505;HEAT:PBS lyase HEAT-like repeat ;11;8;8;8;11;7;6;12;2;2;1;0
+638432306;ZP_00517027;CwatDRAFT_2393;Ribosomal protein L18 ;5;5;6;6;6;4;3;4;0;1;0;0
+638434548;ZP_00519259;CwatDRAFT_0312;Photosystem I reaction centre subunit IV/P;12;16;9;12;13;5;5;5;2;4;3;0
+638430928;ZP_00515660;CwatDRAFT_4350;Malate dehydrogenase (oxaloacetate decarbo;10;11;12;6;6;5;4;6;2;3;8;2
+638428804;ZP_00513550;CwatDRAFT_6015;Beta-ketoacyl synthase:Beta-ketoacyl synth;0;2;4;2;1;2;2;3;0;1;1;0
+638429048;ZP_00513793;CwatDRAFT_6161;FAD-dependent pyridine nucleotide-disulphi;5;5;6;1;2;1;0;5;2;4;1;1
+638429293;ZP_00514036;CwatDRAFT_6490;Peptidyl-prolyl cis-trans isomerase, cyclo;9;7;7;5;10;4;1;6;0;1;2;1
+638429369;ZP_00514111;CwatDRAFT_6342;conserved hypothetical protein ;1;2;3;1;0;0;0;0;0;0;0;0
+638429412;ZP_00514154;CwatDRAFT_6425;similar to RNA-binding protein (contains K;3;2;4;4;4;7;4;4;4;5;5;5
+638429417;ZP_00514159;CwatDRAFT_6377;Starch (bacterial glycogen) synthase ;2;4;8;2;0;1;1;5;1;1;2;1
+638429990;ZP_00514728;CwatDRAFT_5717;Phycobilisome linker polypeptide:CpcD phy;9;19;17;16;11;5;2;7;0;2;1;0
+638430911;ZP_00515644;CwatDRAFT_4342;Prolyl-tRNA synthetase, bacterial ;1;1;0;1;0;4;1;2;3;2;0;1
+638431016;ZP_00515748;CwatDRAFT_4276;Protein of unknown function DUF336 ;4;4;8;3;4;0;0;4;1;0;0;0
+638431352;ZP_00516086;CwatDRAFT_3919;Peptidase M41, FtsH ;2;3;6;6;8;0;0;0;1;3;1;1
+638431371;ZP_00516099;CwatDRAFT_3768;ABC-1 ;0;0;0;1;1;1;2;0;0;1;1;0
+638431830;ZP_00516571;CwatDRAFT_3355;HEAT:Peptidase M1, membrane alanine amino;3;3;4;3;2;4;2;3;0;1;2;2
+638431917;ZP_00516648;CwatDRAFT_3148;hypothetical protein ;;;;;;;;;;;;
+638431918;ZP_00516647;CwatDRAFT_3147;Uracil phosphoribosyl transferase ;0;1;1;0;0;0;1;4;0;0;0;0
+638432151;ZP_00516862;CwatDRAFT_3286;Dihydroorotase multifunctional complex typ;1;6;6;4;0;2;1;5;1;0;2;0
+638432314;ZP_00517035;CwatDRAFT_2401;DNA-directed RNA polymerase ;27;26;23;20;23;17;12;21;4;5;11;0
+638433182;ZP_00517897;CwatDRAFT_1753;similar to sensor protein/domain ;3;5;4;3;3;5;7;3;1;4;2;0
+638433747;ZP_00518462;CwatDRAFT_1137;Plastid and cyanobacterial ribosomal prote;8;8;27;11;7;16;17;11;1;6;13;0
+638434009;ZP_00518723;CwatDRAFT_0837;Short-chain dehydrogenase/reductase SDR ;2;4;4;3;5;2;3;5;1;1;3;0
+638434241;ZP_00518949;CwatDRAFT_0322;hypothetical protein ;2;6;5;6;4;4;0;3;1;2;2;0
+638434531;ZP_00519242;CwatDRAFT_0143;Photosynthetic reaction centre protein 44;20;21;29;22;18;18;11;17;4;11;10;13
+638433519;ZP_00518229;CwatDRAFT_1063;Phycobilisome linker polypeptide:Phycobili;26;41;42;28;28;17;10;22;6;4;9;8
+638433020;ZP_00517734;CwatDRAFT_1009;Ribosomal protein S4, bacterial and organe;17;27;25;26;21;15;13;18;0;4;3;1
+638429298;ZP_00514041;CwatDRAFT_6307;G-protein beta WD-40 repeat ;0;0;1;2;0;0;2;1;0;2;0;0
+638429807;ZP_00514546;CwatDRAFT_5452;Ribosomal protein S6 ;10;8;7;6;5;2;2;4;0;2;0;0
+638434080;ZP_00518791;CwatDRAFT_0942;AICARFT/IMPCHase bienzyme ;4;3;6;3;4;2;6;7;0;2;1;0
+638431011;ZP_00515723;CwatDRAFT_4250;Cysteinyl-tRNA synthetase, class Ia ;4;4;3;6;4;7;3;4;2;4;3;3
+638432097;ZP_00516814;CwatDRAFT_2714;Ribulose-bisphosphate carboxylase ;97;165;151;177;81;69;66;84;13;38;39;28
+638434698;ZP_00519407;CwatDRAFT_0006;AAA ATPase, central region:Peptidase M41,;7;9;10;6;9;4;2;6;4;3;5;2
+638433706;ZP_00518419;CwatDRAFT_0658;Phycobilisome linker polypeptide:CpcD phyc;19;20;28;12;19;12;12;17;8;14;13;0
+638432350;ZP_00517060;CwatDRAFT_2444;Ribosomal protein L22, bacterial and organ;2;6;6;3;3;0;1;3;0;1;0;0
+638429553;ZP_00514294;CwatDRAFT_5939;Thiamine biosynthesis protein ThiC ;10;15;16;15;14;10;8;10;4;7;8;2
+638429258;ZP_00514001;CwatDRAFT_6287;ATP synthase F0, subunit B ;6;9;6;6;11;8;3;6;1;5;6;2
+638431804;ZP_00516537;CwatDRAFT_3414;RNA binding S1 ;40;38;32;31;41;25;19;22;9;15;6;0
+638432604;ZP_00517318;CwatDRAFT_2922;Protein phosphatase 2C-like ;13;14;11;6;15;6;8;13;1;4;4;3
+638434600;ZP_00519311;CwatDRAFT_0123;Photosystem II protein ;32;43;53;30;23;24;16;21;9;19;14;17
+638430770;ZP_00515529;CwatDRAFT_4606;Glycine cleavage H-protein ;11;12;10;12;18;10;6;9;5;5;6;3
+638429790;ZP_00514529;CwatDRAFT_5823;conserved hypothetical protein ;4;1;1;2;1;3;0;0;0;0;0;0
+638430698;ZP_00515562;CwatDRAFT_4643;Asparaginyl-tRNA synthetase, class IIb ;1;1;4;5;0;1;2;1;0;0;0;0
+638431495;ZP_00516214;CwatDRAFT_3680;hypothetical protein ;4;5;4;5;9;6;2;3;3;7;2;3
+638431930;ZP_00516641;CwatDRAFT_3141;Alkyl hydroperoxide reductase/ Thiol speci;46;48;55;44;55;34;19;37;4;19;5;2
+638432240;ZP_00516953;CwatDRAFT_2815;hypothetical protein ;7;5;10;9;8;6;2;6;0;0;1;2
+638434000;ZP_00518712;CwatDRAFT_0774;Protein of unknown function DUF262:Protei;2;0;4;0;3;1;0;0;0;1;0;0
+638430848;ZP_00515581;CwatDRAFT_4305;Phycobilisome protein ;80;83;83;74;119;42;25;59;20;26;23;11
+638433217;ZP_00517932;CwatDRAFT_1692;UDP-glucose 4-epimerase ;1;3;4;1;1;4;4;4;1;2;6;4
+638432057;ZP_00516773;CwatDRAFT_2875;Aminotransferase, class V ;3;0;3;1;4;3;2;2;0;3;1;1
+638432304;ZP_00517025;CwatDRAFT_2391;Ribosomal protein S8 ;5;9;9;11;8;6;12;11;3;6;7;0
+638433155;ZP_00517866;CwatDRAFT_1906;Single-strand binding protein ;8;8;7;7;11;10;6;11;2;7;6;0
+638432313;ZP_00517034;CwatDRAFT_2400;Ribosomal protein S11 ;7;6;13;6;7;10;5;12;1;6;5;0
+638433391;ZP_00518105;CwatDRAFT_1608;Phycobilisome protein ;7;9;8;6;12;5;2;4;0;1;1;2
+638431245;ZP_00516024;CwatDRAFT_3766;GlpX ;46;64;73;49;44;26;14;40;10;16;33;27
+638429764;ZP_00514504;CwatDRAFT_5426;conserved hypothetical protein ;8;7;8;8;8;6;1;4;0;1;1;1
+638432602;ZP_00517316;CwatDRAFT_2920;hypothetical protein ;12;13;8;15;15;7;3;11;3;2;3;0
+638433740;ZP_00518455;CwatDRAFT_0609;hypothetical protein ;15;15;16;15;8;6;9;15;6;8;11;11
+638431750;ZP_00516463;CwatDRAFT_3086;Glucokinase ;1;1;2;4;3;1;3;2;1;2;2;3
+638434526;ZP_00519237;CwatDRAFT_0193;Allophycocyanin, beta subunit ;9;11;14;8;10;7;5;9;0;4;4;0
+638432355;ZP_00517065;CwatDRAFT_2449;Ribosomal protein L14, bacterial and organ;5;3;4;4;3;4;4;4;0;2;0;0
+638434013;ZP_00518733;CwatDRAFT_0731;NADH dehydrogenase (ubiquinone), 30 kDa su;3;2;3;2;2;0;2;0;3;1;2;1
+638433446;ZP_00518172;CwatDRAFT_1379;Ribosomal protein S21 ;1;0;4;2;0;0;0;1;0;0;0;0
+638429647;ZP_00514387;CwatDRAFT_5888;Small GTP-binding protein domain:GTP-bind;2;1;1;0;1;1;2;3;1;1;1;0
+638431956;ZP_00516673;CwatDRAFT_2749;PAP fibrillin ;3;1;1;2;1;3;0;2;1;1;0;1
+638432086;ZP_00516811;CwatDRAFT_2494;Dihydrolipoamide dehydrogenase ;5;9;7;4;8;6;5;5;1;3;4;0
+638432351;ZP_00517061;CwatDRAFT_2445;ribosomal protein S3 ;20;24;29;24;18;16;9;20;3;6;11;0
+638429482;ZP_00514224;CwatDRAFT_5975;Periplasmic solute binding protein ;6;8;5;4;8;5;3;4;5;3;1;1
+638433289;ZP_00518001;CwatDRAFT_1738;Peptidase S14, ClpP ;6;6;6;5;7;4;3;7;0;4;4;0
+638433288;ZP_00518006;CwatDRAFT_1746;ATP-sulfurylase ;13;11;17;9;5;2;2;5;2;2;2;1
+638430270;ZP_00515005;CwatDRAFT_5155;NADH dehydrogenase (quinone) ;8;9;11;9;7;2;2;6;2;1;6;2
+638430250;ZP_00514985;CwatDRAFT_4924;Ferritin and Dps ;15;16;12;11;14;7;4;12;0;5;2;1
+638434014;ZP_00518732;CwatDRAFT_0730;NADH dehydrogenase (ubiquinone), 20 kDa su;2;1;7;1;2;2;2;0;1;2;4;2
+638430520;ZP_00515233;CwatDRAFT_4694;Translation elongation factor G:Small GTP-;2;3;5;5;5;1;1;3;0;1;0;2
+638431994;ZP_00516732;CwatDRAFT_2855;hypothetical protein ;11;8;8;5;7;2;3;1;0;2;0;1
+638432045;ZP_00516763;CwatDRAFT_2863;hypothetical protein ;5;6;6;4;5;8;4;5;3;4;4;0
+638429416;ZP_00514158;CwatDRAFT_6376;NADH dehydrogenase I subunit N ;1;3;4;1;0;1;1;1;1;1;2;2
+638432776;ZP_00517492;CwatDRAFT_2249;Ribosomal protein L19 ;8;11;11;12;3;10;6;7;0;0;0;0
+638433287;ZP_00518007;CwatDRAFT_1747;Caspase-1, p20 ;3;2;3;3;2;1;2;2;2;1;1;0
+638431944;ZP_00516665;CwatDRAFT_2741;Glucokinase regulatory-like protein ;3;3;3;3;2;0;0;2;0;0;0;1
+638431902;ZP_00516608;CwatDRAFT_3429;Phycocyanin, beta subunit ;6;12;12;8;10;6;6;7;0;1;5;2
+638433927;ZP_00518640;CwatDRAFT_0966;Peptidase M41 ;11;11;5;11;13;8;4;6;5;11;6;4
+638431816;ZP_00516526;CwatDRAFT_3401;Phosphoglycerate/bisphosphoglycerate mutas;0;2;6;3;1;1;0;2;0;0;0;0
+638429282;ZP_00514025;CwatDRAFT_6495;unknown protein ;0;0;0;0;7;5;2;2;0;1;0;0
+638434595;ZP_00519307;CwatDRAFT_0062;Peptidase M41, FtsH ;11;13;19;9;10;11;6;10;1;5;6;4
+638433693;ZP_00518407;CwatDRAFT_0980;Glyceraldehyde-3-phosphate dehydrogenase,;43;56;56;42;28;21;13;19;6;22;22;24
+638429517;ZP_00514258;CwatDRAFT_5954;Carbohydrate kinase, PfkB ;8;10;10;8;10;8;5;9;9;8;7;5
+638429059;ZP_00513804;CwatDRAFT_6606;Deoxyxylulose-5-phosphate synthase ;3;1;2;2;0;1;0;1;0;2;3;3
+638429387;ZP_00514129;CwatDRAFT_6357;Non-ribosomal peptide synthase:Amino acid;1;1;0;1;2;0;0;0;0;0;0;0
+638429261;ZP_00514004;CwatDRAFT_6290;H+-transporting two-sector ATPase, gamma;10;12;12;12;10;9;7;11;1;6;1;0
+638430989;ZP_00515714;CwatDRAFT_4239;Cytochrome b/b6, N-terminal ;8;8;8;6;3;2;3;3;0;4;1;2
+638434482;ZP_00519193;CwatDRAFT_0365;hypothetical protein ;3;4;3;5;8;1;0;2;1;0;1;0
+638433265;ZP_00517978;CwatDRAFT_1330;Transketolase, central region:Transketolas;4;6;7;3;2;1;2;2;0;1;9;7
+638430711;ZP_00515426;CwatDRAFT_4491;Insulinase-like:Peptidase M16, C-terminal;7;4;4;2;7;0;2;4;1;2;4;2
+638430440;ZP_00515175;CwatDRAFT_5041;Insulinase-like:Peptidase M16, C-terminal;4;4;5;4;5;4;2;2;2;1;0;2
+638431975;ZP_00516705;CwatDRAFT_3012;DNA gyrase, subunit A ;5;9;10;8;4;6;5;3;4;4;6;0
+638429340;ZP_00514083;CwatDRAFT_6328;Diaminopimelate epimerase ;10;6;8;6;3;6;3;5;2;6;3;2
+638430283;ZP_00515018;CwatDRAFT_4944;KaiC ;1;3;2;3;0;1;2;1;0;2;1;1
+638434273;ZP_00518984;CwatDRAFT_0550;5-methyltetrahydropteroyltriglutamate-- ho;30;34;32;18;7;11;12;19;4;16;10;13
+638430600;ZP_00515332;CwatDRAFT_4803;Ribulose-phosphate 3-epimerase ;9;13;12;8;4;1;1;1;1;3;4;6
+638429724;ZP_00514464;CwatDRAFT_5852;S-adenosylmethionine synthetase ;2;2;2;1;1;1;1;1;0;0;0;0
+638432032;ZP_00516753;CwatDRAFT_3318;Ketose-bisphosphate aldolase, class-II:Fr;59;66;98;59;41;16;14;14;9;34;40;36
+638432145;ZP_00516868;CwatDRAFT_3292;Protein of unknown function DUF1257 ;3;14;13;18;19;6;3;2;0;1;4;4
+638432201;ZP_00516924;CwatDRAFT_2936;Cytochrome f ;5;9;7;5;3;3;3;1;2;4;1;4
+638429139;ZP_00513884;CwatDRAFT_6216;Glycoside hydrolase, family 57 ;1;5;4;1;4;3;1;4;0;3;4;5
+638430153;ZP_00514891;CwatDRAFT_5229;conserved hypothetical protein ;1;1;1;1;1;2;1;3;0;3;1;1
+638432315;ZP_00517036;CwatDRAFT_2402;Ribosomal protein L17 ;4;7;7;10;5;2;1;4;0;0;0;0
+638429613;ZP_00514354;CwatDRAFT_5903;conserved hypothetical protein ;0;0;0;0;0;0;0;0;0;2;0;0
+638432206;ZP_00516948;CwatDRAFT_2963;Peptidase U62, modulator of DNA gyrase ;0;2;3;1;1;0;0;0;0;0;1;0
+638430622;ZP_00515318;CwatDRAFT_4789;Peptidase S41A, C-terminal protease ;2;4;6;2;1;0;0;0;0;1;1;2
+638429260;ZP_00514003;CwatDRAFT_6289;ATP synthase F1, alpha subunit ;39;56;63;61;51;30;25;52;6;28;19;10
+638430271;ZP_00515006;CwatDRAFT_5154;KaiC ;1;6;3;5;2;3;1;2;1;3;2;0
+638430437;ZP_00515172;CwatDRAFT_5038;2-phosphosulfolactate phosphatase ;2;5;4;1;4;1;4;2;1;2;2;4
+638429594;ZP_00514335;CwatDRAFT_5320;Heat shock protein Hsp70 ;7;8;10;13;12;15;10;10;5;9;7;7
+638433351;ZP_00518078;CwatDRAFT_1423;Photosynthetic reaction centre protein DI/;3;9;11;4;3;1;0;1;0;5;5;1
+638433736;ZP_00518451;CwatDRAFT_0605;hypothetical protein ;8;4;10;6;6;5;4;6;3;3;4;0
+638431060;ZP_00515823;CwatDRAFT_4220;S-layer homology region ;177;189;209;157;117;54;29;34;41;91;62;98
+638429021;ZP_00513766;CwatDRAFT_6625;Glucosamine-fructose-6-phosphate aminotran;0;1;3;2;0;0;3;1;0;0;1;2
+638431396;ZP_00516111;CwatDRAFT_3781;hypothetical protein ;0;2;2;2;5;0;2;2;0;1;0;0
+638429772;ZP_00514512;CwatDRAFT_5433;periplasmic protein, function unknown ;47;59;67;40;41;33;23;46;15;23;25;0
+638433550;ZP_00518265;CwatDRAFT_1238;Photosynthetic reaction centre protein ;12;17;13;8;5;1;0;2;0;4;3;2
+638430495;ZP_00515384;CwatDRAFT_4859;Heme oxygenase (decyclizing) ;10;10;9;2;0;0;0;1;0;3;4;3
+638434283;ZP_00518993;CwatDRAFT_0626;Photosystem II 12 kDa extrinsic ;17;20;16;12;8;2;1;5;2;5;5;5
+638431070;ZP_00515789;CwatDRAFT_4183;Coproporphyrinogen oxidase ;3;2;3;1;0;2;3;4;1;2;8;8
+638432457;ZP_00517178;CwatDRAFT_2598;Phosphoribulokinase/uridine kinase ;20;30;31;19;8;1;4;7;0;7;10;5
+638431046;ZP_00515775;CwatDRAFT_4168;Adenylosuccinate lyase ;2;1;8;5;1;1;2;4;0;3;4;5
+638431040;ZP_00515833;CwatDRAFT_4231;Protein of unknown function DUF541 ;3;2;2;1;6;2;3;1;0;4;1;0
+638433259;ZP_00517972;CwatDRAFT_1324;Cytidyltransferase-related ;1;0;3;0;0;0;0;0;0;1;1;1
+638430350;ZP_00515085;CwatDRAFT_5117;GTP cyclohydrolase I ;7;5;6;3;5;1;2;1;1;2;2;1
+638429567;ZP_00514308;CwatDRAFT_5303;conserved hypothetical protein ;16;21;30;24;15;13;14;17;3;3;2;5
+638429097;ZP_00513842;CwatDRAFT_6588;S-layer homology region ;5;8;17;9;4;0;0;0;0;1;2;0
+638430694;ZP_00515416;CwatDRAFT_4480;1-deoxy-D-xylulose 5-phosphate reductoisom;0;4;2;1;0;0;0;1;0;1;1;4
+638429108;ZP_00513853;CwatDRAFT_6582;Conserved hypothetical protein YfcH ;0;1;3;0;0;2;0;1;0;1;0;0
+638434479;ZP_00519191;CwatDRAFT_0476;Cytoplasmic peptidoglycan synthetase, N-te;1;0;3;1;0;2;0;0;0;1;2;0
+638429745;ZP_00514485;CwatDRAFT_5411;hypothetical protein ;2;2;2;1;2;3;3;4;3;2;1;1
+638431660;ZP_00516414;CwatDRAFT_3847;NifT/FixU ;1;0;2;0;7;6;2;10;6;4;1;1
+638431668;ZP_00516385;CwatDRAFT_3817;Aminotransferase, class V:Nitrogen-fixing;0;0;0;0;1;2;4;8;0;1;1;0
+638431671;ZP_00516388;CwatDRAFT_3820;Nitrogenase molybdenum-iron protein beta c;0;1;0;0;7;15;20;30;7;1;0;0
+638433014;ZP_00517730;CwatDRAFT_1005;hypothetical protein ;0;0;0;0;0;0;2;8;1;0;0;0
+638433233;ZP_00517957;CwatDRAFT_1933;NAD(P) transhydrogenase, beta subunit ;1;0;0;2;2;5;10;13;7;7;1;0
+638433235;ZP_00517955;CwatDRAFT_1931;NAD(P)(+) transhydrogenase (AB-specific) ;4;0;0;1;9;12;11;24;3;6;1;0
+638433899;ZP_00518604;CwatDRAFT_0790;Glyceraldehyde-3-phosphate dehydrogenase,;4;0;0;3;11;12;10;21;5;2;0;0
+638434101;ZP_00518817;CwatDRAFT_0788;hypothetical protein ;3;1;0;0;1;0;0;2;0;4;2;0
+638428777;ZP_00513524;CwatDRAFT_5996;conserved hypothetical protein ;1;0;1;1;1;1;1;1;7;0;0;0
+638428807;ZP_00513553;CwatDRAFT_6018;conserved hypothetical protein ;6;5;3;3;4;1;1;2;1;1;1;0
+638428809;ZP_00513555;CwatDRAFT_6736;Ribosomal protein S15, bacterial chloropla;6;2;3;6;2;4;1;4;0;0;0;0
+638428816;ZP_00513562;CwatDRAFT_6022;Cytochrome P450 ;0;1;0;0;0;0;1;1;1;2;1;0
+638428818;ZP_00513564;CwatDRAFT_6729;Photosystem I reaction center protein PsaF;15;21;21;19;20;11;7;12;3;13;11;8
+638428821;ZP_00513567;CwatDRAFT_6024;Band 7 protein ;12;11;14;14;16;14;7;15;2;3;0;2
+638428930;ZP_00513675;CwatDRAFT_6673;ABC transporter ;2;0;0;0;0;3;2;4;0;4;1;0
+638428984;ZP_00513729;CwatDRAFT_6122;Copper response defect 1 ;2;2;5;0;2;1;0;0;0;2;1;2
+638428985;ZP_00513730;CwatDRAFT_6644;UDP-N-acetylglucosamine pyrophosphorylase;4;2;2;0;2;1;2;1;2;2;4;3
+638428990;ZP_00513735;CwatDRAFT_6125;Threonyl-tRNA synthetase, class IIa ;1;1;4;2;0;0;1;0;0;1;0;0
+638429161;ZP_00513906;CwatDRAFT_6551;N-6 DNA methylase ;1;0;0;1;0;1;1;0;1;0;0;0
+638429165;ZP_00513910;CwatDRAFT_6547;Ammonium transporter ;6;11;7;8;2;1;0;4;1;4;3;2
+638429190;ZP_00513935;CwatDRAFT_6237;Respiratory-chain NADH dehydrogenase, subu;2;3;4;6;6;4;3;6;2;2;5;2
+638429209;ZP_00513952;CwatDRAFT_6249;Initiation factor 3 ;1;1;1;1;3;1;0;0;0;1;1;0
+638429295;ZP_00514038;CwatDRAFT_6305;Glycoside hydrolase, family 77 ;10;9;14;12;7;8;8;12;1;8;2;5
+638429347;ZP_00514090;CwatDRAFT_6453;Response regulator receiver:Transcriptiona;2;3;7;7;3;9;3;3;0;2;2;1
+638429379;ZP_00514121;CwatDRAFT_6351;Protein of unknown function DUF370 ;11;14;14;13;17;11;9;10;6;3;2;2
+638429413;ZP_00514155;CwatDRAFT_6424;Ribosomal protein S16 ;8;11;10;7;11;4;6;7;0;1;0;0
+638429454;ZP_00514196;CwatDRAFT_6395;D-3-phosphoglycerate dehydrogenase ;20;17;16;11;15;9;15;20;4;9;7;8
+638429523;ZP_00514264;CwatDRAFT_5271;Glutamine synthetase type I ;11;14;15;15;9;11;12;11;3;7;6;6
+638429570;ZP_00514311;CwatDRAFT_5304;Cytochrome c, class I ;4;6;4;5;4;5;3;8;0;5;4;3
+638429585;ZP_00514326;CwatDRAFT_5924;Nitrogen regulatory protein P-II ;2;2;1;1;1;1;0;2;0;1;3;3
+638429601;ZP_00514342;CwatDRAFT_5914;Methyltransferase FkbM ;2;1;0;0;1;1;1;1;2;4;2;0
+638429603;ZP_00514344;CwatDRAFT_5912;S-layer homology region ;3;4;6;2;1;2;2;2;0;1;3;1
+638429630;ZP_00514370;CwatDRAFT_5336;unknown protein ;12;11;12;11;13;8;6;13;0;6;1;0
+638429642;ZP_00514382;CwatDRAFT_5348;Aldo/keto reductase ;4;1;5;1;2;0;1;1;0;0;0;0
+638429696;ZP_00514436;CwatDRAFT_5867;FAD-dependent pyridine nucleotide-disulphi;20;9;10;10;15;8;5;10;8;13;5;0
+638429703;ZP_00514443;CwatDRAFT_5390;Glucose-methanol-choline oxidoreductase ;0;0;0;0;3;1;0;0;0;0;0;0
+638429769;ZP_00514509;CwatDRAFT_5431;Transketolase, central region:Transketolas;4;8;11;8;2;8;6;18;2;6;18;0
+638429775;ZP_00514515;CwatDRAFT_5829;conserved hypothetical protein ;6;5;4;4;6;3;4;2;2;0;2;1
+638429776;ZP_00514516;CwatDRAFT_5828;Ribosomal protein L20, bacterial and organ;5;3;4;4;2;1;4;3;1;2;3;0
+638429777;ZP_00514517;CwatDRAFT_5827;Ribosomal protein L35 ;0;1;3;1;1;1;3;3;0;0;1;2
+638429860;ZP_00514599;CwatDRAFT_5475;Tryptophanyl-tRNA synthetase, class Ib ;2;1;6;2;0;0;2;3;0;1;0;0
+638429951;ZP_00514689;CwatDRAFT_5735;Histidine triad (HIT) protein ;5;3;3;2;2;1;0;0;1;0;0;0
+638429953;ZP_00514691;CwatDRAFT_5533;Protein of unknown function DUF820 ;1;4;3;3;2;1;1;5;0;2;0;2
+638429967;ZP_00514705;CwatDRAFT_5541;Methionyl-tRNA synthetase, class Ia ;1;2;1;1;1;2;0;3;1;2;0;3
+638430048;ZP_00514786;CwatDRAFT_5683;Sigma-70 region 3:Sigma-70 region 2:Sigma-;5;2;5;0;3;8;7;6;4;3;6;3
+638430113;ZP_00514851;CwatDRAFT_5637;GMP synthase, C-terminal:GMP synthase, N-t;3;2;1;2;1;4;1;1;0;4;4;2
+638430142;ZP_00514880;CwatDRAFT_4874;Peptidase S14, ClpP ;7;7;12;7;8;7;7;7;5;8;5;2
+638430154;ZP_00514892;CwatDRAFT_5228;N-acylneuraminate-9-phosphate synthase ;0;0;0;2;0;0;0;0;0;0;1;0
+638430167;ZP_00514905;CwatDRAFT_4887;Isoleucyl-tRNA synthetase, class Ia ;0;1;4;1;0;1;1;3;0;3;4;0
+638430279;ZP_00515014;CwatDRAFT_4940;Phosphoribosylglycinamide formyltransferas;0;0;0;0;0;0;2;1;0;1;1;0
+638430358;ZP_00515093;CwatDRAFT_5109;TPR repeat:TPR repeat ;0;0;1;0;2;0;1;0;1;1;0;0
+638430372;ZP_00515107;CwatDRAFT_5099;conserved hypothetical protein ;1;1;1;1;4;1;0;1;0;0;1;0
+638430393;ZP_00515128;CwatDRAFT_5089;Carbamoyl-phosphate synthase, small subuni;1;2;2;2;3;2;1;3;2;1;0;2
+638430394;ZP_00515129;CwatDRAFT_5010;conserved hypothetical protein ;0;1;1;1;5;1;1;1;0;2;1;1
+638430432;ZP_00515167;CwatDRAFT_5034;Arginyl-tRNA synthetase, class Ic ;1;0;1;1;3;0;0;1;0;1;0;0
+638430448;ZP_00515183;CwatDRAFT_5048;N-acetylmuramoyl-L-alanine amidase, peripl;0;0;0;1;1;2;4;3;1;3;3;0
+638430456;ZP_00515191;CwatDRAFT_5056;TPR repeat:TPR repeat ;0;0;0;2;5;4;0;0;0;0;0;0
+638430560;ZP_00515353;CwatDRAFT_4825;Amino acid adenylation ;2;2;1;0;1;0;1;0;0;0;0;0
+638430603;ZP_00515274;CwatDRAFT_4742;Antitermination protein NusB ;0;2;1;1;3;3;2;4;4;0;3;0
+638430615;ZP_00515324;CwatDRAFT_4795;conserved hypothetical protein ;1;1;3;1;1;1;0;1;0;0;0;0
+638430805;ZP_00515514;CwatDRAFT_4590;Non-ribosomal peptide synthase:Amino acid;0;1;0;1;2;1;1;0;1;1;2;0
+638430826;ZP_00515507;CwatDRAFT_4581;FAD-dependent pyridine nucleotide-disulphi;1;3;1;1;4;1;1;3;0;3;1;1
+638430930;ZP_00515662;CwatDRAFT_4352;Ribosomal protein L25 ;1;4;8;3;3;1;0;4;0;0;1;1
+638430985;ZP_00515766;CwatDRAFT_4298;Dihydroorotate dehydrogenase 2 ;0;1;2;2;0;1;2;1;0;0;0;0
+638431020;ZP_00515726;CwatDRAFT_4253;Phosphoglucomutase/phosphomannomutase C te;0;1;3;1;1;1;0;1;1;2;1;1
+638431066;ZP_00515785;CwatDRAFT_4179;Protein of unknown function DUF1092 ;2;0;3;3;0;0;1;1;1;1;1;1
+638431073;ZP_00515820;CwatDRAFT_4217;Pentapeptide repeat ;5;2;2;0;0;0;0;0;1;3;0;1
+638431081;ZP_00515792;CwatDRAFT_4186;Ribonuclease E and G ;4;3;2;4;5;1;2;4;0;2;2;1
+638431141;ZP_00515872;CwatDRAFT_4098;hypothetical protein ;3;3;2;0;0;0;0;0;0;0;0;0
+638431143;ZP_00515870;CwatDRAFT_4096;Ribosomal protein L28 ;5;3;3;1;1;0;0;2;0;0;0;0
+638431153;ZP_00515863;CwatDRAFT_4089;Aspartyl-tRNA synthetase bacterial/mitocho;4;3;4;3;1;0;1;1;1;0;2;1
+638431259;ZP_00516018;CwatDRAFT_3760;BRCT ;3;6;3;3;2;0;0;2;1;1;1;1
+638431269;ZP_00515990;CwatDRAFT_3729;Ribosomal protein L21 ;1;2;3;3;3;2;3;4;0;0;0;0
+638431322;ZP_00516047;CwatDRAFT_3956;Ribosomal protein S20p ;2;0;1;4;4;0;4;3;0;1;0;0
+638431364;ZP_00516076;CwatDRAFT_3907;DegT/DnrJ/EryC1/StrS aminotransferase ;1;2;6;4;2;1;1;2;0;1;0;0
+638431366;ZP_00516098;CwatDRAFT_3767;Alanine--tRNA ligase ;1;1;3;0;2;0;1;1;0;1;1;2
+638431374;ZP_00516135;CwatDRAFT_3807;6,7-dimethyl-8-ribityllumazine synthase ;21;15;12;13;18;16;6;11;1;8;2;0
+638431375;ZP_00516100;CwatDRAFT_3769;UDP-N-acetylmuramyl-tripeptide synthetase;1;2;3;3;2;1;0;2;1;4;4;2
+638431405;ZP_00516124;CwatDRAFT_3795;Heat shock protein Hsp20 ;1;1;1;0;3;0;0;0;0;1;0;0
+638431483;ZP_00516209;CwatDRAFT_3675;TPR repeat:TPR repeat ;0;3;2;0;2;0;0;1;0;1;1;1
+638431491;ZP_00516241;CwatDRAFT_3708;BtpA ;1;1;2;4;1;0;0;0;1;1;0;2
+638431623;ZP_00516380;CwatDRAFT_3593;Exoribonuclease II ;0;1;1;0;3;1;0;0;0;0;0;1
+638431674;ZP_00516391;CwatDRAFT_3823;Nitrogenase molybdenum-iron cofactor biosy;0;0;0;0;0;1;0;4;0;0;0;0
+638431706;ZP_00516437;CwatDRAFT_4049;GGDEF ;0;0;0;0;2;0;0;1;0;0;0;1
+638431714;ZP_00516427;CwatDRAFT_4036;Transketolase, central region:Transketolas;0;3;6;3;2;2;2;1;1;5;4;0
+638431779;ZP_00516500;CwatDRAFT_3263;Methyltransferase FkbM ;2;0;3;2;0;1;0;1;1;0;3;0
+638431845;ZP_00516552;CwatDRAFT_3335;Peptidase U62, modulator of DNA gyrase ;2;1;1;1;0;0;1;2;1;4;2;1
+638431872;ZP_00516588;CwatDRAFT_3502;Formylmethionine deformylase ;2;1;1;2;1;0;0;0;0;0;1;0
+638431880;ZP_00516631;CwatDRAFT_3452;Conserved hypothetical protein MG423 ;0;2;2;2;0;2;1;2;1;1;1;0
+638431882;ZP_00516629;CwatDRAFT_3450;Aspartate-semialdehyde dehydrogenase, USG-;2;3;3;3;3;3;3;3;0;1;2;0
+638431885;ZP_00516626;CwatDRAFT_3447;Transketolase, central region ;5;7;6;3;6;6;3;4;2;3;6;0
+638431890;ZP_00516621;CwatDRAFT_3442;hypothetical protein ;2;1;1;2;2;0;0;0;0;0;0;0
+638431925;ZP_00516636;CwatDRAFT_3136;hypothetical protein ;5;8;5;3;4;0;0;0;0;1;1;1
+638431928;ZP_00516642;CwatDRAFT_3142;Asparagine synthase, glutamine-hydrolyzin;0;0;0;1;3;0;1;1;0;0;0;0
+638431995;ZP_00516731;CwatDRAFT_2854;Phycobilisome linker polypeptide ;6;4;5;4;2;3;2;2;1;0;2;1
+638432023;ZP_00516743;CwatDRAFT_3307;extracellular solute-binding protein, fami;2;5;2;6;2;3;1;0;0;1;0;0
+638432034;ZP_00516750;CwatDRAFT_3315;RNA-binding region RNP-1  (RNA recognition;7;7;3;4;10;7;3;4;5;15;4;7
+638432061;ZP_00516786;CwatDRAFT_2482;TROVE ;2;2;1;2;4;1;1;2;0;3;0;0
+638432066;ZP_00516791;CwatDRAFT_2484;hypothetical protein ;5;5;3;1;4;3;2;3;0;2;0;0
+638432101;ZP_00516817;CwatDRAFT_2717;Glutaminase ;0;0;0;0;1;0;0;0;0;1;0;0
+638432171;ZP_00516894;CwatDRAFT_3200;Histone-like bacterial DNA-binding protein;5;7;9;8;5;3;2;1;0;0;0;0
+638432191;ZP_00516909;CwatDRAFT_3374;Excinuclease ABC, C subunit ;2;1;1;4;2;2;4;3;5;5;2;7
+638432309;ZP_00517030;CwatDRAFT_2396;SecY protein ;1;2;3;1;4;2;1;3;0;0;0;0
+638432311;ZP_00517032;CwatDRAFT_2398;Translation initiation factor IF-1 ;2;4;2;4;2;2;1;0;0;0;0;0
+638432319;ZP_00517040;CwatDRAFT_2406;Ribosomal protein L31 ;4;2;5;2;2;2;1;2;0;0;0;0
+638432504;ZP_00517225;CwatDRAFT_2700;Initiation factor 2:Small GTP-binding prot;5;4;8;4;6;4;5;10;1;2;2;0
+638432692;ZP_00517412;CwatDRAFT_2303;3-oxoacyl-(acyl-carrier-protein) reductase;2;0;4;2;2;1;0;2;0;1;1;1
+638432737;ZP_00517464;CwatDRAFT_2004;PAS ;0;0;0;0;0;2;0;0;1;0;0;0
+638432768;ZP_00517502;CwatDRAFT_2260;GHMP kinase ;0;0;0;0;0;0;2;0;1;0;1;0
+638432890;ZP_00517607;CwatDRAFT_2083;Forkhead-associated:ABC-2:ABC transporter;2;1;0;0;1;2;2;2;0;3;3;1
+638432894;ZP_00517618;CwatDRAFT_2097;H+-transporting two-sector ATPase, delta/e;5;5;3;5;7;3;1;2;3;4;0;0
+638432918;ZP_00517648;CwatDRAFT_2024;similar to Zn-dependent proteases and thei;0;0;3;0;0;0;0;1;0;1;1;0
+638432954;ZP_00517668;CwatDRAFT_1937;hypothetical protein ;5;5;2;3;3;1;0;0;0;0;0;0
+638432987;ZP_00517710;CwatDRAFT_1869;Aminotransferase, class I and II ;5;11;16;14;6;2;5;5;0;1;2;2
+638433052;ZP_00517761;CwatDRAFT_2127;hypothetical protein ;5;3;4;1;2;1;0;0;0;0;2;1
+638433065;ZP_00517785;CwatDRAFT_1493;hypothetical protein ;4;1;1;1;2;1;1;3;2;2;0;1
+638433078;ZP_00517797;CwatDRAFT_3061;surface antigen (D15):Surface antigen var;1;1;1;0;2;0;0;0;0;0;0;0
+638433121;ZP_00517839;CwatDRAFT_1730;Peptidase M48, Ste24p ;0;0;0;2;3;2;1;0;0;0;0;0
+638433128;ZP_00517851;CwatDRAFT_1835;3'-5' exoribonuclease, VacB and RNase II ;1;3;0;0;0;0;0;0;1;0;2;0
+638433194;ZP_00517916;CwatDRAFT_2188;1,4-alpha-glucan branching enzyme ;3;2;4;1;2;1;2;2;0;0;2;0
+638433225;ZP_00517943;CwatDRAFT_1704;Peptidase, archaeal and bacterial C-termin;1;2;2;1;3;1;2;1;0;0;0;0
+638433261;ZP_00517974;CwatDRAFT_1326;NAD-dependent epimerase/dehydratase ;9;13;12;5;3;1;1;1;0;1;3;3
+638433264;ZP_00517977;CwatDRAFT_1329;Transketolase, N terminal ;1;1;3;1;0;0;0;1;0;0;3;1
+638433286;ZP_00518008;CwatDRAFT_1748;hypothetical protein ;0;0;0;1;1;1;1;2;0;1;0;0
+638433321;ZP_00518043;CwatDRAFT_0935;regulatory protein, LuxR ;4;0;2;2;3;3;2;4;1;2;1;0
+638433344;ZP_00518065;CwatDRAFT_1628;Peptidase M41, FtsH ;2;3;4;2;5;2;1;1;0;0;0;0
+638433360;ZP_00518071;CwatDRAFT_1414;Glutamate-5-semialdehyde dehydrogenase ;0;1;1;0;1;2;1;1;0;0;3;0
+638433433;ZP_00518146;CwatDRAFT_1647;Glutamyl-tRNA(Gln) amidotransferase C subu;2;2;2;3;5;3;1;2;1;1;0;0
+638433468;ZP_00518183;CwatDRAFT_2028;Phosphoglycerate mutase, 2,3-bisphosphogly;2;0;0;1;1;0;4;2;1;0;1;0
+638433531;ZP_00518242;CwatDRAFT_1818;FeS assembly protein SufB ;0;0;1;0;4;3;3;2;0;1;2;1
+638433572;ZP_00518291;CwatDRAFT_1571;Response regulator receiver:Transcriptiona;0;0;1;1;2;2;1;0;0;0;0;0
+638433574;ZP_00518290;CwatDRAFT_1570;Glutaredoxin-related protein ;3;2;4;2;4;4;2;6;2;2;4;0
+638433612;ZP_00518327;CwatDRAFT_1050;Fumarate hydratase, class II ;1;2;1;1;2;0;2;1;0;0;0;0
+638433652;ZP_00518366;CwatDRAFT_1211;Hemolysin-type calcium-binding region ;2;0;0;0;0;0;0;0;2;1;0;1
+638433684;ZP_00518397;CwatDRAFT_1268;Geranylgeranyl reductase ;3;5;3;1;0;0;0;1;0;1;3;1
+638433723;ZP_00518431;CwatDRAFT_1893;Protein of unknown function DUF124 ;3;1;2;1;6;3;1;3;6;4;4;5
+638433742;ZP_00518457;CwatDRAFT_0611;NAD-dependent epimerase/dehydratase ;4;9;7;5;2;6;3;6;1;2;1;0
+638433799;ZP_00518517;CwatDRAFT_1263;hypothetical protein ;4;4;6;3;5;0;1;1;3;2;0;0
+638433806;ZP_00518530;CwatDRAFT_1044;Methionyl-tRNA formyltransferase ;1;1;1;1;2;5;5;2;1;2;3;2
+638433865;ZP_00518577;CwatDRAFT_0845;hypothetical protein ;7;7;7;5;12;5;1;5;0;5;3;0
+638433906;ZP_00518616;CwatDRAFT_1117;hypothetical protein ;0;3;3;2;0;0;0;0;0;0;0;0
+638433988;ZP_00518700;CwatDRAFT_1204;Glycosyl transferase, family 2 ;3;5;4;2;1;0;1;0;1;1;2;2
+638434048;ZP_00518760;CwatDRAFT_1082;NAD-dependent epimerase/dehydratase ;2;0;2;2;0;1;1;1;1;1;0;3
+638434081;ZP_00518792;CwatDRAFT_0943;hypothetical protein ;0;2;6;1;1;0;0;2;0;1;2;0
+638434085;ZP_00518796;CwatDRAFT_0947;Carotene 7,8-desaturase ;5;5;3;0;2;0;0;0;0;3;3;2
+638434110;ZP_00518825;CwatDRAFT_0569;Beta-Ig-H3/fasciclin ;13;7;7;3;1;0;0;0;0;3;1;0
+638434117;ZP_00518833;CwatDRAFT_1166;Protein of unknown function DUF25 ;2;2;3;1;1;1;0;1;0;1;0;0
+638434129;ZP_00518838;CwatDRAFT_0975;Chaperonin Cpn10 ;6;4;0;0;2;0;1;1;2;1;0;0
+638434132;ZP_00518851;CwatDRAFT_0409;HEAT:PBS lyase HEAT-like repeat ;3;1;4;1;2;6;5;3;1;2;2;3
+638434137;ZP_00518848;CwatDRAFT_0406;hypothetical protein ;8;3;7;4;4;1;2;2;2;8;3;0
+638434152;ZP_00518864;CwatDRAFT_1094;hypothetical protein ;1;2;1;2;1;1;0;1;0;0;0;0
+638434212;ZP_00518923;CwatDRAFT_0905;TRAP dicarboxylate transporter- DctP subun;3;3;1;2;0;1;2;2;1;1;1;0
+638434261;ZP_00518975;CwatDRAFT_0542;Biopterin transport-related protein BT1 ;0;0;0;0;2;3;0;0;0;0;0;0
+638434437;ZP_00519146;CwatDRAFT_0161;Cytochrome b559, alpha subunit ;4;6;5;1;1;0;0;0;0;0;1;0
+638434456;ZP_00519167;CwatDRAFT_0469;Histidinol dehydrogenase ;1;2;3;2;1;2;2;1;0;0;2;1
+638434460;ZP_00519171;CwatDRAFT_0281;ribosome releasing factor ;3;3;2;2;5;0;1;1;0;0;0;0
+638434655;ZP_00519366;CwatDRAFT_0096;h;4;1;2;3;3;1;0;1;0;0;0;0
