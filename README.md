@@ -6,4 +6,4 @@ xxx
 
 ## Contact
 
-For more information you can visit the official code website or send an email to [julia.gauglitz@uantwerpen.be](julia.gauglitz@uantwerpen.be).
+For more information you can visit the [https://github.com/jgauglitz/Croco_diel](official code website) or send an email to [julia.gauglitz@uantwerpen.be](julia.gauglitz@uantwerpen.be).
