@@ -1,9 +1,18 @@
-## Temporal regulation of proteome in the marine diazotroph Crocosphaera watsonii WH 8501
+## Temporal proteome shifts in the marine diazotroph Crocosphaera watsonii WH 8501
 
-For more information: 
+For more information: [official code website](https://github.com/jgauglitz/Croco_diel)
 
-xxx
+The software is available as open-source under the BSD license.
+
+If you use the code in your own work, please cite the following publication: 
+
+* Publication pending
+
+
+## Content
+
+
 
 ## Contact
 
-For more information you can visit the [https://github.com/jgauglitz/Croco_diel](official code website) or send an email to [julia.gauglitz@uantwerpen.be](julia.gauglitz@uantwerpen.be).
+For more information you can visit the [official code website](https://github.com/jgauglitz/Croco_diel) or send an email to [julia.gauglitz@uantwerpen.be](julia.gauglitz@uantwerpen.be).
